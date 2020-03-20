@@ -1,6 +1,9 @@
-<center><img src="https://i.imgur.com/POVtFk8.png" /></center>
-
-<br />
+<h1 align="center">
+<br>
+  <img src="https://i.imgur.com/POVtFk8.png" />
+<br>
+<br>
+</h1>
 
 # What is it?
 
@@ -8,35 +11,46 @@ Dev Radar is a software to find other devs that use the same technologies
 
 # What technologies were used?
 
-* **Backend**: Node.js with express
+- 💹 **Node Js** — A web framework for Node Js
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS (With Expo)
+- 📄 **MongoDB** — A cross-platform and open-source document-oriented database
+- ♻️ **Socket IO** — A library for realtime web applications 
 
-* **Web**: React.js
+## How to Use?
 
-* **Mobile**: React Native with expo
+1. Clone this repository: `git clone https://github.com/KauaLimaMartins/DevRadar.git`
 
-# How to Use?
+2. Move yourself to the folder: `cd devradar`
 
-1. Clone the repository
+2. Install all libs: `yarn`
 
-`git clone https://github.com/KauaLimaMartins/DevRadar.git`
+## How to Use the Backend?
 
-2. Install all libs
+1. Move yourself to the backend folder: `cd backend`
 
-`yarn` or `npm install`
+2. Run: `yarn dev`
 
-3. In the backend folder run:
+## How to Use the Web?
 
-`yarn dev` or `npm run dev` <- this is to run the server
+1. Move yourself to the web folder: `cd web`
 
-4. In the web folder run:
+2. run: `yarn start`
 
-`yarn start` or `npm run start` <- this is to open the site
+## How to Use the Mobile?
 
-5. In the mobile folder run:
+1. Move yourself to the mobile folder: `cd mobile`
 
-`yarn start` or `npm run start` <- this is to run expo server
+2. Run: `yarn start`
 
-6. To use the mobile app, install the "expo" app on your phone and scan the QR code that will appear after running command 5.
+3. instale o aplicativo "expo" pela loja de aplicativos do seu celular
 
+4. Scan the qr code that appeared on your computer
 
-7. Enjoy DevRadar
+## What if i use Emulator?
+
+1. Move yourself to the mobile folder: `cd mobile`
+
+2. Run: `yarn start`
+
+3. Click on the "Run on (IOS or Android) Simulator" button on the right
