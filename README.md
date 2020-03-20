@@ -53,4 +53,4 @@ Dev Radar is a software to find other devs that use the same technologies
 
 2. Run: `yarn start`
 
-3. Click on the "Run on (IOS or Android) Simulator" button on the right
+3. Click on the "Run on (IOS or Android) Simulator" button on the left
