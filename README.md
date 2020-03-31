@@ -43,7 +43,7 @@ Dev Radar is a software to find other devs that use the same technologies
 
 2. Run: `yarn start`
 
-3. instale o aplicativo "expo" pela loja de aplicativos do seu celular
+3. install the "expo" app from your phone's app store
 
 4. Scan the qr code that appeared on your computer
 
