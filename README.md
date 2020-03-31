@@ -1,9 +1,10 @@
-<h1 align="center">
+<h3 align="center">
 <br>
   <img src="https://i.imgur.com/POVtFk8.png" />
 <br>
 <br>
-</h1>
+  Find developers just like you
+</h3>
 
 # What is it?
 
